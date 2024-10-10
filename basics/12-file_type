@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /root/holbertonschool-shell/basics/tmp/iamafile
+file tmp/iamafile
