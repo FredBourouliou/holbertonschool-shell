@@ -1,2 +1,2 @@
 #!/bin/bash
-% mv /basics/*[A-Z]* /basics/tmp/u
+mv /Users/fredericbourouliou/holbertonschool-shell/basics/*[A-Z]* /Users/fredericbourouliou/holbertonschool-shell/basics/tmp/u
