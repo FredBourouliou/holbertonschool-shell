@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /Users/fredericbourouliou/holbertonschool-shell/basics/*[A-Z]* /Users/fredericbourouliou/holbertonschool-shell/basics/tmp/u
+mv /*[A-Z]* /tmp/u
