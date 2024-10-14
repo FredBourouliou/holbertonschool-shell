@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty /permissions
+chown betty /Users/fredericbourouliou/holbertonschool-shell/permissions
