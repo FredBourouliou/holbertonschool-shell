@@ -1,2 +1,2 @@
 #!/bin/bash
-cp | tail -1 iacta > lastlineiacta
+tail -1 iacta >> lastlineiacta
