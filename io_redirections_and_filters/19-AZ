@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Some checks are failing. Make sure you fix them before starting a new review' | tr Ac Ze
+echo 'Some checks are failing. At other times this information is' | tr Ac Ze
