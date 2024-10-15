@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'ac' 'ze'
+echo 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt' | tr 'ac' 'ze'
