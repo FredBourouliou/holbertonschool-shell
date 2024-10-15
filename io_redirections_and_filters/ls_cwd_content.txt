@@ -1,0 +1,16 @@
+total 88
+drwxr-xr-x@ 15 fredericbourouliou  staff   480 15 oct 12:02 .
+drwxr-xr-x   8 fredericbourouliou  staff   256 14 oct 22:19 ..
+-rwxr--r--@  1 fredericbourouliou  staff    32 14 oct 22:54 0-hello_world
+-rwxr--r--@  1 fredericbourouliou  staff    28 14 oct 23:14 1-confused_smiley
+-rwxr--r--@  1 fredericbourouliou  staff    28 15 oct 09:24 2-hellofile
+-rwxr--r--@  1 fredericbourouliou  staff    39 15 oct 09:28 3-twofiles
+-rwxr--r--@  1 fredericbourouliou  staff    29 15 oct 09:31 4-lastlines
+-rwxr--r--@  1 fredericbourouliou  staff    29 15 oct 09:34 5-firstlines
+-rwxr--r--@  1 fredericbourouliou  staff    40 15 oct 10:42 6-third_line
+-rwxr--r--@  1 fredericbourouliou  staff    80 15 oct 11:51 7-file
+-rw-r--r--@  1 fredericbourouliou  staff    40 15 oct 12:00 8-cwd_state
+-rw-r--r--@  1 fredericbourouliou  staff  2162 14 oct 22:33 README.md
+-rw-r--r--@  1 fredericbourouliou  staff     0 15 oct 11:36 \*\'"Best School"\'\*$\?\*\*\*\*\*:).txt
+-rw-r--r--@  1 fredericbourouliou  staff     3 15 oct 11:01 hello.txt
+-rw-r--r--@  1 fredericbourouliou  staff     0 15 oct 12:06 ls_cwd_content.txt
