@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Some checks are failing. At other times this information is' | tr Ac Ze
+tr 'Ac' 'Ze'
