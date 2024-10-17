@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH | echo $PATH | grep / | wc -l
+echo $PATH | find . -type d | grep / | wc -l
