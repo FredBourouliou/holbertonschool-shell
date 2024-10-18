@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sed 'n;d'
+ls -l | sort 'NR%2==1'
