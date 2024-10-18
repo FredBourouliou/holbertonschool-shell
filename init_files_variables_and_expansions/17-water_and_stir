@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $WATER + $STIR ))
+export WATER=water | export STIR=stir | echo $(( $WATER + $STIR ))
