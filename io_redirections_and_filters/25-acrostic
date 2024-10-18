@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 | sort -m
+cut -c1 | sort -m
